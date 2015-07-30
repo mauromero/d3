@@ -1,4 +1,4 @@
 # d3
 Basic D3 data visualization
 
- http://mauromero.github.io/d3
+https://jsfiddle.net/mauromero/jytataL6/embedded/result/
